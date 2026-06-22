@@ -1,6 +1,6 @@
 # CARE - Medical Appointment System
 
-CARE is a web-based medical appointment and information system built with Core PHP and MySQL. The system allows patients to search doctors, book appointments, manage profiles, and view health-related information. It also includes separate dashboards for Admin, Doctor, and Patient roles.
+CARE is a web-based medical appointment  and information system built with Core PHP and MySQL. The system allows patients to search doctors, book appointments, manage profiles, and view health-related information. It also includes separate dashboards for Admin, Doctor, and Patient roles.
 
 ## Project Overview
 
