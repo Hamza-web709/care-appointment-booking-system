@@ -245,6 +245,139 @@ Patient
 
 Patients and doctors can register from the registration page. Admin users can manage the complete system from the admin dashboard.
 
+## Project Screenshots
+
+### Landing Page
+
+<img src="screenshots/landing-page.png" alt="CARE Landing Page" width="100%">
+
+---
+
+### Login Page
+
+<img src="screenshots/login-page.png" alt="CARE Login Page" width="100%">
+
+---
+
+### Patient Registration
+
+<img src="screenshots/patient-reg.png" alt="Patient Registration Page" width="100%">
+
+---
+
+### Doctor Registration
+
+<img src="screenshots/doctor-reg.png" alt="Doctor Registration Page" width="100%">
+
+---
+
+### Doctors Listing Page
+
+<img src="screenshots/doctors.png" alt="Doctors Listing Page" width="100%">
+
+---
+
+### Diseases Page
+
+<img src="screenshots/diseses.png" alt="Diseases Page" width="100%">
+
+---
+
+### Book Appointment Page
+
+<img src="screenshots/book-appointment.png" alt="Book Appointment Page" width="100%">
+
+---
+
+## Patient Panel Screenshots
+
+### Patient Dashboard
+
+<img src="screenshots/patients-dashboard.png" alt="Patient Dashboard" width="100%">
+
+---
+
+### Patient Profile
+
+<img src="screenshots/patients-profile.png" alt="Patient Profile" width="100%">
+
+---
+
+### Patient Appointments
+
+<img src="screenshots/patient-appointment.png" alt="Patient Appointments" width="100%">
+
+---
+
+## Doctor Panel Screenshots
+
+### Doctor Dashboard
+
+<img src="screenshots/doctor-dashboard.png" alt="Doctor Dashboard" width="100%">
+
+---
+
+### Doctor Profile
+
+<img src="screenshots/doctor-profile.png" alt="Doctor Profile" width="100%">
+
+---
+
+### Doctor Availability
+
+<img src="screenshots/doctor-availability.png" alt="Doctor Availability" width="100%">
+
+---
+
+### Doctor Appointments
+
+<img src="screenshots/doctor-appointment.png" alt="Doctor Appointments" width="100%">
+
+---
+
+## Admin Panel Screenshots
+
+### Manage Users
+
+<img src="screenshots/manage-users.png" alt="Manage Users" width="100%">
+
+---
+
+### Manage Doctors
+
+<img src="screenshots/manage-doctors.png" alt="Manage Doctors" width="100%">
+
+---
+
+### Manage Patients
+
+<img src="screenshots/manage-patients.png" alt="Manage Patients" width="100%">
+
+---
+
+### Manage Cities
+
+<img src="screenshots/manage-cities.png" alt="Manage Cities" width="100%">
+
+---
+
+### Manage Diseases
+
+<img src="screenshots/manage-disease.png" alt="Manage Diseases" width="100%">
+
+---
+
+### Medical News Page
+
+<img src="screenshots/medical-news.png" alt="Medical News Page" width="100%">
+
+---
+
+### Manage Medical News
+
+<img src="screenshots/manage-medical-news.png" alt="Manage Medical News" width="100%">
+
+
 ## Important Notes
 
 * Make sure Apache and MySQL are running before opening the project.
